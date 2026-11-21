@@ -1,0 +1,13 @@
+{
+  "name": "regl-sunucu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "sunucu.js",
+  "scripts": {
+    "start": "node sunucu.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
